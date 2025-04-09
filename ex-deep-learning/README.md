@@ -25,3 +25,7 @@ pip install tensorflow matplotlib certifi
 ```bash
 python3 main.py
 ```
+
+## Résultats
+
+![Résultats](./deep-learning.png)
